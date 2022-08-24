@@ -3,5 +3,5 @@
 - 🌱 I’m currently working in company as Vue JS Developer.
 - 💞️ I’m looking to collaborate on ... Android application and Python programs.
 - 📫 How to reach me ... mail me at mohit20112000@gmail.com
-- 📒 i'm learning React JS for my study.
+- 📒 i'm learning React JS for my interest.
 
